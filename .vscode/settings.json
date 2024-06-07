@@ -1,4 +1,0 @@
-{
-    "appService.defaultWebAppToDeploy": "undefined/subscriptions/a08ec5ba-6cb7-4b4f-a940-7f84f0ede191/resourceGroups/appsvc_linux_centralus_basic/providers/Microsoft.Web/sites/sampleappazure",
-    "appService.deploySubpath": "."
-}
